@@ -62,7 +62,7 @@ Customer Demographics
 → Gender, Partner, Dependents
 
 ### 🔗 Connect with Me
-*** Shashith Kumar Veeramalla***
+** Shashith Kumar Veeramalla**
 [LinkedIn](https://www.linkedin.com/in/shashith-veeramalla-346092275/) | [Email](mailto:shashith.v2@gmail.com) 
 
 
