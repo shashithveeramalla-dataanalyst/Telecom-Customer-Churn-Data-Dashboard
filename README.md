@@ -50,7 +50,7 @@ This project focuses on analyzing telecom customer churn behavior using an inter
 - Source: Kaggle (IBM Sample Data) - [Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 ### 📊 📌 About the Dataset
--This dataset is designed to analyze customer retention and predict churn behavior.
+This dataset is designed to analyze customer retention and predict churn behavior.
 🔹 Includes:
 Customer Churn
 → Whether a customer left within the last month
@@ -62,7 +62,7 @@ Customer Demographics
 → Gender, Partner, Dependents
 
 ### 🔗 Connect with Me
-** Shashith Kumar Veeramalla**
+**Shashith Kumar Veeramalla**
 [LinkedIn](https://www.linkedin.com/in/shashith-veeramalla-346092275/) | [Email](mailto:shashith.v2@gmail.com) 
 
 
