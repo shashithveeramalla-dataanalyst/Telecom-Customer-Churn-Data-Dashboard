@@ -55,10 +55,13 @@ This dataset is designed to analyze customer retention and predict churn behavio
 🔹 Includes:
 Customer Churn
 → Whether a customer left within the last month
+
 Services Subscribed
 → Phone, Internet, Security, Backup, Streaming, etc.
+
 Account Information
 → Tenure, Contract, Payment Method, Billing, Charges
+
 Customer Demographics
 → Gender, Partner, Dependents
 
